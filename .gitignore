@@ -1,0 +1,13 @@
+# Ignore everything in bin/ except binary
+Makefile
+sigtrap.c
+bin/
+!bin/sigtrap_v1.0
+!bin/sigtrap_v1.0.tar.gz
+# Object files
+*.o
+
+# Editor files
+*~
+*.swp
+.vscode/
