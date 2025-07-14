@@ -13,4 +13,4 @@ This tool is built and tested with:
 
 📫 Contact
 
-Report any issues to: silentpuck@protonmail.com
+Report any issues to: SilentPuck@proton.me
