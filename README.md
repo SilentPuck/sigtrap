@@ -22,7 +22,7 @@ Simple. Fast. Offline. No tracking. No telemetry. Just control.
 Get the latest release from the [Releases](https://github.com/SilentPuck/sigtrap/releases) section.
 
 ```bash
-wget https://github.com/SilentPuck/sigtrap/releases/download/v1.0/sigtrap
+wget https://github.com/SilentPuck/sigtrap/releases/download/v1.0/sigtrap_v1.0.tar.gz
 chmod +x sigtrap
 ```
 
