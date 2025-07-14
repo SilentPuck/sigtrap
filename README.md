@@ -23,6 +23,7 @@ Get the latest release from the [Releases](https://github.com/SilentPuck/sigtrap
 
 ```bash
 wget https://github.com/SilentPuck/sigtrap/releases/download/v1.0/sigtrap_v1.0.tar.gz
+tar -xvzf sigtrap_v1.0.tar.gz 
 chmod +x sigtrap
 ```
 
